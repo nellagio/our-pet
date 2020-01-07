@@ -1,0 +1,46 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+
+h2 {
+  font-family: sans-serif; 
+  text-align: center;
+  color: red;
+}
+
+p {
+  font-family: sans-serif;  
+  text-align: center;
+  color: whitesmoke;
+}
+
+h4 {
+  font-family: sans-serif; 
+  text-align: center;
+  color: whitesmoke;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+ol {
+  font-family: sans-serif; 
+  color: whitesmoke;
+  list-style-position: center ;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8em
+}
+
+body {
+  background-image: url("https://1stwebdesigner.com/wp-content/uploads/2019/07/css-background-effects-thumb.jpg");
+}
+
+IMG {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
