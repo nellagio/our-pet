@@ -1,4 +1,4 @@
-#HTML Webpage project
+# HTML Webpage project
 
 #### Clifford "our pet project", 01/-7/2020
 
@@ -9,7 +9,7 @@
 This webpage is to display information about what "our pet Clifford" likes and doesn't.
 
 ## Setup/Installation Requirements
-
+ 
 None, click and have it open in a web browser
 
 ## Known Bugs
